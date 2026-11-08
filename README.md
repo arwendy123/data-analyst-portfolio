@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Arwendy, a data analyst based in Jakarta with a degree in Informatics and Computer Engineering Education from Sebelas Maret University (thesis on data visualization). I use Python, SQL and BI tools to turn business data into decisions, and I have hands-on experience collecting web data at scale (1,000+ points of interest in Japan). I'm looking for Data Analyst roles.
+Hi, I'm Arwendy, a data analyst based in Jakarta with a degree in Informatics and Computer Engineering Education from Sebelas Maret University (thesis on data visualization). I use Python, SQL and BI tools to turn business data into decisions, and I have hands-on experience collecting web data at scale (1,500+ points of interest in Japan). I'm looking for Data Analyst roles.
 
 [Resume (PDF)](https://github.com/arwendy123/data-analyst-portfolio/blob/main/arwendy-melyndra-resume.pdf)
 
