@@ -27,6 +27,7 @@ Each project has its own repository with the full analysis. This page is an inde
 
 | Project | Business question | Tools | Key result |
 |---|---|---|---|
+| [Credit Risk: Which Loans to Approve](https://github.com/arwendy123/credit-risk-default-analysis) | Which loan applications should a lender approve to earn the most? | Python, scikit-learn | AUC 0.891 (CV 0.900); a profit-based cut-off (0.26) earns 9% more than 0.50; only 8.4% of approved loans default vs 21.8% overall |
 | [Fuel Consumption and CO2 SVR Model](https://github.com/arwendy123/fuel-consumption-SVR-model) | Can vehicle specifications predict CO2 emissions? | Python, scikit-learn | SVR model evaluated with MSE and R² |
 
 ## Certificates
